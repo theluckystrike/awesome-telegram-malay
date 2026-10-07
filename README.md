@@ -17,3 +17,5 @@ Senarai saluran, kumpulan dan bot Telegram dalam Bahasa Melayu.
 
 ## Bot Telegram
 
+
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
